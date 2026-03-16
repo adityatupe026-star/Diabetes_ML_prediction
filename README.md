@@ -140,7 +140,7 @@ DiabetesIQ/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone (https://github.com/adityatupe026-star/Diabetes_ML_prediction)
+git clone https://github.com/adityatupe026-star/Diabetes_ML_prediction
 cd DiabetesIQ
 ```
 
